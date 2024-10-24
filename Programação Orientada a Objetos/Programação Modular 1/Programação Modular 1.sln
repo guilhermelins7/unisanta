@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programação Modular 1", "Programação Modular 1.csproj", "{18542D39-3E49-44DE-9A61-94D81A1ACA00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18542D39-3E49-44DE-9A61-94D81A1ACA00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18542D39-3E49-44DE-9A61-94D81A1ACA00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18542D39-3E49-44DE-9A61-94D81A1ACA00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18542D39-3E49-44DE-9A61-94D81A1ACA00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {318B6189-F86A-4230-B229-4125EB213124}
+	EndGlobalSection
+EndGlobal
